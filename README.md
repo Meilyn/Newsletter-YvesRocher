@@ -2,7 +2,7 @@
 
 **Preview**: [Newsletter Yves Rocher](https://meilyn.github.io/Newsletter-YvesRocher/)
 
-**Status** : In construction.
+**Status** : Finish.
 
 **By**: Meilyn **ANDRADE**
 
